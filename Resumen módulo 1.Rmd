@@ -1,5 +1,5 @@
 ---
-title: introducción a producción de textos e hipertextos
+title: módulo 1
 authors:
   - name: Juan Pablo Siracusa
     department: Department of Industrial Enginnering
