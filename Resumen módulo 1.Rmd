@@ -187,7 +187,7 @@ El código de la segunda clase quedo asi:
 \subsection{¿Qué es Mark Down?}
 Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 Nosotros lo aplicamos en la herramienta "documentos de google", creando un documento para afianzar el aprendizaje de dicho lenguaje.
-````{verbatim}
+
 \subsection{Sintáxsis de Mark down}
 La sintaxis básica del lenguaje es la siguiente:
 \begin{itemize}
@@ -204,7 +204,7 @@ La sintaxis básica del lenguaje es la siguiente:
     \item Agregar imagenes: Para agregar una imagen debemos introducir el siguiente código: \\  ![Tux, IMAGEN](/assets/images/tux.png)
     \item Links: Para agregar un link tenemos que encerrar entre corchetes el nombre del link y después, entre paréntesis, la URL del sitio. Por ejemplo:\ [mercado libre](https://mercadolibre.com)
 \end{itemize}
-````
+
 \section{Documento Latex}
 \subsection{¿Qué es Latex?}
 Latex es un sistema de composición de textos orientado a la creación de documentos escritos que presenten una alta calidad tipográfica. Por sus características y posibilidades, se usa de forma especialmente intensa en la generación de artículos y libros científicos que incluyen, entre otros elementos, expresiones matemáticas.
