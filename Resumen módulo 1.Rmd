@@ -1,5 +1,5 @@
 ---
-title: módulo 1
+title: Módulo 1
 authors:
   - name: Juan Pablo Siracusa
     department: Department of Industrial Enginnering
@@ -9,7 +9,7 @@ authors:
   - name: Mariana Mut
     department: Department of Industrial Enginnering
     affiliation: Facultad de Ingeniería 
-    location: Mendoza Argentina
+    location: Mendoza, Argentina
     email: mutmariana04@gmail.com 
   - name: Isabella Morandini Monteverdi
     department: Facultad de ingeniería
